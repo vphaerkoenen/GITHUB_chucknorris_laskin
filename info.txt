@@ -1,0 +1,3 @@
+laskin_1
+	- kesän 2022 c++ -kurssin harjoitustyönä tehty nelilaskin
+	- tehty QT creator 7.0.2 :lla
